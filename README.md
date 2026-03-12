@@ -1,5 +1,7 @@
 # saxs-mapping
-Pipeline for analyzing synchrotron SAXS maps (2D raster maps of 2D SAXS patterns) including pyFAI integration, model fitting, nanostructural parameter extraction, and visualisation
+Pipeline for analyzing synchrotron SAXS maps (2D raster maps of 2D SAXS patterns) including pyFAI integration, model fitting, nanostructural parameter extraction, and visualisation.
+
+This work arises from BBSRC funded research on cartilage mapping (BB/R003610/1) and a follow-on EPSRC studentship to Laura Forster, Queen Mary University of London, working with Himadri Gupta (QMUL), Tim Snow and Nick Terrill (Diamond Light Source).
 
 ## Overview
 
