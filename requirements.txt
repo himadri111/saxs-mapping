@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+matplotlib
+h5py
+pyfai
+lmfit
+scikit-learn
+pyyaml
