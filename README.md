@@ -29,3 +29,6 @@ pip install -r requirements.txt
 ## Status
 
 This repository contains research analysis code and is under active development.
+
+This repository contains research software and is provided without warranty.
+Users are responsible for validating results for their specific application.
