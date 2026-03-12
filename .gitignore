@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.pyo
+*.DS_Store
+
+# SAXS data
+*.nxs
+*.h5
+*.hdf5
+*.edf
+*.cbf
+*.tif
+*.tiff
+
+# outputs
+*.csv
+*.png
+*.pdf
+Output*/
+Iq/
+Ichi/
+plots/
